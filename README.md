@@ -8,3 +8,5 @@ To install "inplace" please run:
 ```
 pip install -e .
 ```
+
+Then run tests.
