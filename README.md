@@ -9,4 +9,5 @@ To install "inplace" please run:
 pip install -e .
 ```
 
-Then run all tests.
+Then run all tests:
+```pytest```
